@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-354104cd","path":"/docs/vue3/wendangjieshao.html","title":"文档介绍","lang":"en-US","frontmatter":{"title":"文档介绍","date":"2023/08/30"},"headers":[{"level":2,"title":"版本信息","slug":"版本信息","link":"#版本信息","children":[]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/vue3/文档介绍.md"}');export{e as data};

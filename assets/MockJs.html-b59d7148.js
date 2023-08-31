@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-46a3fb36","path":"/docs/vue3/chajian/MockJs.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1693390137000,"updatedTime":1693390137000,"contributors":[{"name":"Jaylen","email":"2897917046@qq.com","commits":1}]},"filePathRelative":"docs/vue3/插件/MockJs.md"}');export{e as data};
