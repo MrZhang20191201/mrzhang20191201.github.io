@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-19d5697d","path":"/docs/vue3/jinjie/zidingyijiaoshoujia.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1693390137000,"updatedTime":1693390137000,"contributors":[{"name":"Jaylen","email":"2897917046@qq.com","commits":1}]},"filePathRelative":"docs/vue3/进阶/自定义脚手架.md"}');export{e as data};
