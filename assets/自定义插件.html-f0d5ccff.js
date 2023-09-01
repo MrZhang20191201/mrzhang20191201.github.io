@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5a5fd01b","path":"/docs/vue3/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8F%92%E4%BB%B6.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/vue3/自定义插件.md"}');export{t as data};

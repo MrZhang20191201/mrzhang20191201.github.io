@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5894230d","path":"/docs/vue3/TypeScript.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/vue3/TypeScript.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6fb45662","path":"/docs/vue3/%E5%9F%BA%E7%A1%80/%E7%BB%84%E4%BB%B6%E4%BB%8B%E7%BB%8D.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/vue3/基础/组件介绍.md"}');export{t as data};
