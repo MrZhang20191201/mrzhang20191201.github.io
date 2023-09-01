@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-78c32b37","path":"/docs/typora/%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3.html","title":"1. 常用快捷键","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"docs/typora/帮助文档.md"}');export{t as data};

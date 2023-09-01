@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b92430a6","path":"/docs/vue3/%E8%87%AA%E5%AE%9A%E4%B9%89%E8%84%9A%E6%89%8B%E6%9E%B6.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1693554523000,"contributors":[{"name":"Jaylen","email":"2897917046@qq.com","commits":1}]},"filePathRelative":"docs/vue3/自定义脚手架.md"}');export{e as data};

@@ -1,0 +1,14 @@
+import{_ as e,o as i,c as u,a as n}from"./app-f3830017.js";const d={},t=n(`<ul><li>启动时报 CUP异常</li></ul><p>这是AMD电脑的VMware安装macOS 最后出现的错误</p><p>我们需要在虚拟机运行之前打开虚拟机安装目录自动生成的macOS xxxx(你选择安装的版本号).vmx只需要在末尾添加</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>cpuid.0.eax = &quot;0000:0000:0000:0000:0000:0000:0000:1011&quot;
+cpuid.0.ebx = &quot;0111:0101:0110:1110:0110:0101:0100:0111&quot;
+cpuid.0.ecx = &quot;0110:1100:0110:0101:0111:0100:0110:1110&quot;
+cpuid.0.edx = &quot;0100:1001:0110:0101:0110:1110:0110:1001&quot;
+cpuid.1.eax = &quot;0000:0000:0000:0001:0000:0110:0111:0001&quot;
+cpuid.1.ebx = &quot;0000:0010:0000:0001:0000:1000:0000:0000&quot;
+cpuid.1.ecx = &quot;1000:0010:1001:1000:0010:0010:0000:0011&quot;
+cpuid.1.edx = &quot;0000:0111:1000:1011:1111:1011:1111:1111&quot;
+smbios.reflectHost = &quot;TRUE&quot;
+hw.model = &quot;MacBookPro14,3&quot;
+board-id = &quot;Mac-551B86E5744E2388&quot;
+keyboard.vusb.enable = &quot;TRUE&quot;
+mouse.vusb.enable = &quot;TRUE&quot;
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,4),o=[t];function s(c,l){return i(),u("div",null,o)}const r=e(d,[["render",s],["__file","安装配置.html.vue"]]);export{r as default};
