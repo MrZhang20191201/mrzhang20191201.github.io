@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-364c136b","path":"/docs/typora.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"常用快捷键","slug":"常用快捷键","link":"#常用快捷键","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"docs/typora.md"}');export{t as data};
