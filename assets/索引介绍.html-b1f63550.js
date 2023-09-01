@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-50e2f85c","path":"/docs/mysql/%E7%B4%A2%E5%BC%95%E4%BB%8B%E7%BB%8D.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/mysql/索引介绍.md"}');export{t as data};
